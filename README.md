@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning ...
 - 💞️ Love to collaborate
-- 📫 How to reach me ... https://portfolio-rachi.netlify.app ,https://www.linkedin.com/in/rachi-ashtekar-946772202/
+- 📫 How to reach me ... https://portfolio-rachi.netlify.app ,  https://www.linkedin.com/in/rachi-ashtekar-946772202/
 
 <!---
 rachiashtekar/rachiashtekar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
